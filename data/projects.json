@@ -12,7 +12,7 @@
 
     "icon-downloader": {
         "title": "Lucide Icons CLI Downloader",
-        "description": "A clean, modern, and reactive implementation of the classic Hangman word-guessing game built with Svelte.",
+        "description": "This is a CLI tool designed to fetch and save the SVG icons from Lucide.dev to the local working directory",
         "type": "tools",
         "languages": "go",
         "tags": ["cli", "lucide", "icons", "terminal"],
