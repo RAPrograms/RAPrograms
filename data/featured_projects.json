@@ -6,7 +6,7 @@
     },
     {
         "id": "icon-downloader",
-        "caption": "A rust based api for Wordle",
+        "caption": "A Go Lang based CLI tool for saving Lucide Icons",
         "theme": "desert-dusk"
     },
     {
